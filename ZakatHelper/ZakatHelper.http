@@ -1,0 +1,6 @@
+@ZakatHelper_HostAddress = http://localhost:5082
+
+GET {{ZakatHelper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
